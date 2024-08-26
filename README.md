@@ -21,7 +21,7 @@ This repository provides a simple setup for installing and configuring Xorg for 
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/cargopip/dot-xorg
+   git clone https://github.com/syntaxbox/dot-xorg
    cd dot-xorg
    ```
 
@@ -54,7 +54,7 @@ Contributions are welcome! If you have any improvements, bug fixes, or new featu
 2. **Clone Your Fork**
 
    ```sh
-   git clone https://github.com/cargopip/dot-xorg
+   git clone https://github.com/syntaxbox/dot-xorg
    cd dot-xorg
    ```
 
